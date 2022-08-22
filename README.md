@@ -1,3 +1,3 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/103124683/186020159-15b327c7-6f7b-4faf-906f-24c5c35a42ff.png" width="100px"></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</p>
