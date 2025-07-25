@@ -1,8 +1,10 @@
+
+
+### Привет! 👋 Я Артём, DevOps инженер  
+
 <p align="left">
   <img src="https://www.codewars.com/users/quas_wex/badges/large" alt="Codewars Badge">
 </p>
-
-### Привет! 👋 Я Артём, DevOps инженер  
 
 💻 **Технологии:** PHP, JavaScript, Linux, Kafka, Docker, Kubernetes, Ansible, CI/CD  
 🏢 **Опыт:** 7+ лет в разработке высоконагруженных систем  
