@@ -11,4 +11,4 @@
 <p align="center">
   <img src="https://www.codewars.com/users/quas_wex/badges/large" alt="Codewars Badge">
 </p>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma)](https://skillicons.dev)
