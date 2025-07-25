@@ -11,4 +11,12 @@
 <p align="center">
   <img src="https://www.codewars.com/users/quas_wex/badges/large" alt="Codewars Badge">
 </p>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma)](https://skillicons.dev)
+### Привет! 👋 Я Артём, DevOps инженер
+
+💻 **Технологии:** PHP, JavaScript, Linux, Kafka, Docker, Kubernetes, Ansible, CI/CD
+🏢 **Опыт:** 7+ лет в разработке высоконагруженных систем
+🎯 **Цель:** Создание отказоустойчивых и масштабируемых сервисов
+
+📫 Как связаться: [Telegram](https://t.me/Shepych)  
+
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,postgresql,redis,docker,kafka,kubernetes)](https://skillicons.dev)
