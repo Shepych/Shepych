@@ -12,5 +12,5 @@
 
 📫 Связь: [Telegram](https://t.me/Shepych)  
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,js,ansible,postgresql,mysql,redis,docker,kafka,kubernetes,gitlab,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,laravel,js,ansible,postgresql,mysql,redis,docker,kafka,gitlab,terraform)](https://skillicons.dev)
 
