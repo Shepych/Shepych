@@ -8,9 +8,7 @@
   <img src="https://user-images.githubusercontent.com/103124683/189404322-52a49c58-e2d9-4966-9fc0-b34beaa844df.png" width="100px">&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://www.codewars.com/users/quas_wex/badges/large" alt="Codewars Badge">
-</p>
+
 ### Привет! 👋 Я Артём, DevOps инженер  
 
 💻 **Технологии:** PHP, JavaScript, Linux, Kafka, Docker, Kubernetes, Ansible, CI/CD  
@@ -20,3 +18,6 @@
 📫 Как связаться: [Telegram](https://t.me/Shepych)  
 
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,postgresql,redis,docker,kafka,kubernetes)](https://skillicons.dev)
+<p align="left">
+  <img src="https://www.codewars.com/users/quas_wex/badges/large" alt="Codewars Badge">
+</p>
